@@ -12,10 +12,10 @@ $ npm install
 $ npm run dev
 ```
 
-## Generate Broken Version
+## Generate Prod Version
 
 ```
-$ npm run broken
+$ npm run prod
 ```
 
 ## Start a server

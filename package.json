@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack --config webpack.config.dev.js --progress",
-    "broken": "webpack --config webpack.config.prod.js --progress",
+    "prod": "webpack --config webpack.config.prod.js --progress",
     "start": "node server"
   },
   "authors": [
