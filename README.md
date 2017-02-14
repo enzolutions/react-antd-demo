@@ -6,7 +6,7 @@
 $ npm install
 ```
 
-# Generate Dev Version
+## Generate Dev Version
 
 ```
 $ npm run dev
